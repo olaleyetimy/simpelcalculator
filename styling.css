@@ -58,11 +58,6 @@ html{
 	-o-transition:all 0.2s; 
 	-ms-transition:all 0.2s; 
 }
-#choices{
-	height: 100px;
-	width:450px;
-	margin: 5px auto;
-}
 .numbers button {
 	width:60px;
 	height: 65px;
